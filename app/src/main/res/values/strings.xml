@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015 [1076559197@qq.com | tchen0707@gmail.com]
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License”);
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="app_name">SimplifyReader</string>
+    <string name="drawer_open">DrawerOpen</string>
+    <string name="drawer_close">DrawerClose</string>
+    <string name="menu_capture">Scan QR Code</string>
+    <string name="menu_about_us">About us</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="splash_copyright">Copyright &#169; 2015 SimplifyReader All Rights Reserved\nPowered by Obsessive and Chris</string>
+    <string name="splash_slogan">Go through the every bit of life</string>
+    <string name="splash_version">V %1$s</string>
+    <string name="double_click_exit">Press again to exit</string>
+    <string name="common_load_more_end">No more content</string>
+    <string name="feedback_welcome_info">Thanks for your feedback, I will reply as soon as possible</string>
+
+    <!-- Video Play-->
+    <string name="player_title">Media Player</string>
+    <string name="player_view_count">Times watched\t</string>
+    <string name="player_favor_count">Favorites\t</string>
+    <string name="player_comment_count">Comments\t</string>
+    <string name="player_publish">Posted on\t</string>
+    <string name="player_tags">Tags</string>
+
+    <string name="btn_history">History</string>
+    <string name="btn_picture">Picture</string>
+    <string name="btn_light">Light</string>
+    <string name="btn_ok">Ok</string>
+    <string name="qrcode">QR Code</string>
+    <string name="barcode">Barcode</string>
+    <string name="tips_open_camera_error">Failed to open camera, please ensure the permission is allowed and try again</string>
+    <string name="tips_decode_null">No data resolved</string>
+
+    <string name="title_image_picker">Local photo album</string>
+    <string name="tb_munion_tip_download_prefix">Downloading:</string>
+
+</resources>
